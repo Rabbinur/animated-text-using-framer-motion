@@ -1,0 +1,3 @@
+ <h1 className="  xl:bold-52  bold-32 uppercase ">
+            <AnimatedText once text="Our Portfolio " />
+          </h1>
